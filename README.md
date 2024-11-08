@@ -79,7 +79,7 @@ The terrain generation process follows these key steps:
 
 ## Screenshots
 
-Here are some screenshots showcasing the procedurally generated terrain:
+Here are some screenshots showcasing the potential for the generated terrain:
 
 ![Screenshot 1](Images/Desert.png)
 *Caption: A vast desert biome with scattered vegetation*
